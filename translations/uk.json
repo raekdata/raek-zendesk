@@ -8,8 +8,6 @@
   "text_color_label": "Text color",
   "link_color_description": "Text color for link elements",
   "link_color_label": "Link color",
-  "visited_link_color_description": "Text color for visited link elements",
-  "visited_link_color_label": "Visited link color",
   "background_color_description": "Background color of your Help Center",
   "background_color_label": "Background color",
   "fonts_group_label": "Fonts",
@@ -64,7 +62,5 @@
   "post_sharing_description": "Show social media sharing on post",
   "community_topic_group_label": "Community topic elements",
   "follow_topic_label": "Follow",
-  "follow_topic_description": "Users can follow a specific topic",
-  "show_brand_name_label": "Show Help Center name",
-  "show_brand_name_description": "Display the Help Center name next to the logo"
+  "follow_topic_description": "Users can follow a specific topic"
 }

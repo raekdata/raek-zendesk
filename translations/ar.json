@@ -8,8 +8,6 @@
   "text_color_label": "لون النص",
   "link_color_description": "لون النص لعناصر الروابط",
   "link_color_label": "لون الروابط",
-  "visited_link_color_description": "لون النص لعناصر الروابط التي تمت زيارتها",
-  "visited_link_color_label": "لون الروابط التي تمت زيارتها",
   "background_color_description": "لون خلفية مركز المساعدة",
   "background_color_label": "لون الخلفية",
   "fonts_group_label": "الخطوط",
@@ -64,7 +62,5 @@
   "post_sharing_description": "إظهار مشاركة الوسائط الاجتماعية على منشور",
   "community_topic_group_label": "عناصر مواضيع المجتمع",
   "follow_topic_label": "تابع",
-  "follow_topic_description": "يمكن للمستخدمين متابعة موضوع معين",
-  "show_brand_name_label": "إظهار اسم مركز المساعدة",
-  "show_brand_name_description": "عرض اسم مركز المساعدة إلى جانب الشعار"
+  "follow_topic_description": "يمكن للمستخدمين متابعة موضوع معين"
 }

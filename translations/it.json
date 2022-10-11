@@ -8,8 +8,6 @@
   "text_color_label": "Colore testo",
   "link_color_description": "Colore del testo per i link",
   "link_color_label": "Colore link",
-  "visited_link_color_description": "Colore del testo per i link selezionati",
-  "visited_link_color_label": "Colore link selezionati",
   "background_color_description": "Colore di sfondo del Centro assistenza",
   "background_color_label": "Colore di sfondo",
   "fonts_group_label": "Carattere",
@@ -64,7 +62,5 @@
   "post_sharing_description": "Mostra condivisione sui social media nel post",
   "community_topic_group_label": "Elementi argomento della community",
   "follow_topic_label": "Segui",
-  "follow_topic_description": "Gli utenti possono seguire un argomento specifico",
-  "show_brand_name_label": "Mostra nome del centro assistenza",
-  "show_brand_name_description": "Visualizza il nome del centro assistenza accanto al logo"
+  "follow_topic_description": "Gli utenti possono seguire un argomento specifico"
 }

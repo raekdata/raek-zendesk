@@ -8,8 +8,6 @@
   "text_color_label": "Χρώμα κειμένου",
   "link_color_description": "Χρώμα κειμένου για στοιχεία συνδέσμων",
   "link_color_label": "Χρώμα συνδέσμων",
-  "visited_link_color_description": "Χρώμα κειμένου για στοιχεία συνδέσμων με επισκέψεις",
-  "visited_link_color_label": "Χρώμα συνδέσμων με επισκέψεις",
   "background_color_description": "Χρώμα φόντου του Κέντρου βοήθειας",
   "background_color_label": "Χρώμα φόντου",
   "fonts_group_label": "Γραμματοσειρές",
@@ -64,7 +62,5 @@
   "post_sharing_description": "Εμφάνιση κοινοποίησης σε μέσα κοινωνικής δικτύωσης σε αναρτήσεις",
   "community_topic_group_label": "Στοιχεία θεμάτων κοινότητας",
   "follow_topic_label": "Παρακολούθηση",
-  "follow_topic_description": "Οι χρήστες μπορούν να παρακολουθούν ένα συγκεκριμένο θέμα",
-  "show_brand_name_label": "Εμφάνιση ονόματος κέντρου βοήθειας",
-  "show_brand_name_description": "Εμφάνιση του ονόματος κέντρου βοήθειας δίπλα στο λογότυπο"
+  "follow_topic_description": "Οι χρήστες μπορούν να παρακολουθούν ένα συγκεκριμένο θέμα"
 }

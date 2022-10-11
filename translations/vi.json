@@ -8,8 +8,6 @@
   "text_color_label": "Màu văn bản",
   "link_color_description": "Màu văn bản cho các thành phần liên kết",
   "link_color_label": "Màu liên kết",
-  "visited_link_color_description": "Màu văn bản cho các thành phần liên kết đã truy cập",
-  "visited_link_color_label": "Màu liên kết đã truy cập",
   "background_color_description": "Màu nền của Trung tâm Trợ giúp của bạn",
   "background_color_label": "Màu nền",
   "fonts_group_label": "Phông chữ",
@@ -64,7 +62,5 @@
   "post_sharing_description": "Hiển thị chức năng chia sẻ về bài đăng lên phương tiện truyền thông xã hội",
   "community_topic_group_label": "Các phần tử trong chủ đề cộng đồng",
   "follow_topic_label": "Theo dõi",
-  "follow_topic_description": "Người dùng có thể theo dõi một chủ đề cụ thể",
-  "show_brand_name_label": "Hiển thị tên Trung tâm trợ giúp",
-  "show_brand_name_description": "Hiển thị tên Trung tâm trợ giúp bên cạnh biểu tượng"
+  "follow_topic_description": "Người dùng có thể theo dõi một chủ đề cụ thể"
 }

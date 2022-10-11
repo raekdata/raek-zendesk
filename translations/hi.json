@@ -8,8 +8,6 @@
   "text_color_label": "पाठ रंग",
   "link_color_description": "लिंक तत्वों के लिए पाठ रंग",
   "link_color_label": "लिंक रंग",
-  "visited_link_color_description": "विज़िट किए गए लिंक तत्वों के लिए पाठ रंग",
-  "visited_link_color_label": "विज़िट किए गए लिंक के रंग",
   "background_color_description": "आपके सहायता केंद्र की पृष्ठभूमि का रंग",
   "background_color_label": "पृष्ठभूमि का रंग",
   "fonts_group_label": "फॉन्ट",
@@ -64,7 +62,5 @@
   "post_sharing_description": "पोस्ट पर सोशल मीडिया साझाकरण दिखाएं",
   "community_topic_group_label": "समुदाय विषय के तत्व",
   "follow_topic_label": "अनुसरण करें",
-  "follow_topic_description": "उपयोगकर्ता एक विशिष्ट विषय का अनुसरण कर सकते हैं",
-  "show_brand_name_label": "सहायता केंद्र का नाम दिखाएं",
-  "show_brand_name_description": "लोगो के आगे सहायता केंद्र का नाम दिखाएं"
+  "follow_topic_description": "उपयोगकर्ता एक विशिष्ट विषय का अनुसरण कर सकते हैं"
 }

@@ -8,8 +8,6 @@
   "text_color_label": "Tekstfarge",
   "link_color_description": "Tekstfarge for lenkeelementer",
   "link_color_label": "Lenkefarge",
-  "visited_link_color_description": "Tekstfarge for besøkte lenkeelementer",
-  "visited_link_color_label": "Farge på besøkt lenke",
   "background_color_description": "Bakgrunnsfarge i Kundesenter",
   "background_color_label": "Bakgrunnsfarge",
   "fonts_group_label": "Skrifter",
@@ -64,7 +62,5 @@
   "post_sharing_description": "Vis hvordan innlegg er delt i sosiale medier",
   "community_topic_group_label": "Elementer for nettsamfunnemner",
   "follow_topic_label": "Følg",
-  "follow_topic_description": "Brukere kan følge et bestemt emne",
-  "show_brand_name_label": "Vis kundesenternavn",
-  "show_brand_name_description": "Vis kundesenternavnet ved siden av logoen"
+  "follow_topic_description": "Brukere kan følge et bestemt emne"
 }

@@ -8,8 +8,6 @@
   "text_color_label": "Tekstin väri",
   "link_color_description": "Linkkielementtien tekstin väri",
   "link_color_label": "Linkin väri",
-  "visited_link_color_description": "Vierailtujen linkkielementtien tekstin väri",
-  "visited_link_color_label": "Vierailtujen linkkien väri",
   "background_color_description": "Tukiportaalin taustaväri",
   "background_color_label": "Taustaväri",
   "fonts_group_label": "Fontit",
@@ -64,7 +62,5 @@
   "post_sharing_description": "Näytä viestin jakaminen sosiaalisessa mediassa",
   "community_topic_group_label": "Yhteisöaihe-elementit",
   "follow_topic_label": "Seuraa",
-  "follow_topic_description": "Käyttäjät voivat seurata tiettyä aihetta",
-  "show_brand_name_label": "Näytä Tukiportaalin nimi",
-  "show_brand_name_description": "Näytä Tukiportaalin nimi logon vieressä"
+  "follow_topic_description": "Käyttäjät voivat seurata tiettyä aihetta"
 }
