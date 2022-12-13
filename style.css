@@ -1288,6 +1288,8 @@ zd-autocomplete-multibrand[aria-selected=true] {
   height: 100%;
   width: 100%;
   color: #fff;
+  fill: #fff;
+  stroke: #fff;
 }
 .blocks-item-link:hover, .blocks-item-link:active {
   text-decoration: none;
@@ -1297,6 +1299,14 @@ zd-autocomplete-multibrand[aria-selected=true] {
   color: #000;
   outline: none;
   text-decoration: none;
+}
+.blocks-item-link .svg-wrapper {
+  height: 5em;
+  width: 100%;
+  margin-bottom: 1.5em;
+}
+.blocks-item-link .svg-wrapper svg {
+  height: 100%;
 }
 .blocks-item-title {
   margin-bottom: 0;
