@@ -22,7 +22,7 @@
           <h2 class="section-tree-title">
             <a href="{{url}}">{{name}}</a>
             <script>
-            console.log("sections:", {{sections}});
+            {{#if sections}}console.log("sections:", {{sections}});{{/if}}
             </script>
 
           </h2>
