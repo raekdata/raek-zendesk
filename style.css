@@ -1166,13 +1166,13 @@ zd-autocomplete-multibrand[aria-selected=true] {
   flex-direction: column;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 10px 0;
+  margin: 0 0 20px 0;
 }
 @media (min-width: 768px) {
   .page-header {
     align-items: baseline;
     flex-direction: row;
-    margin: 0 0 15px 0;
+    margin: 0 0 35px 0;
   }
 }
 .page-header .section-subscribe {
@@ -1466,6 +1466,11 @@ zd-autocomplete-multibrand[aria-selected=true] {
 .section-tree-header {
   padding-bottom: 6px;
   border-bottom: 1px solid #7a7878;
+}
+@media (min-width: 768px) {
+  .section-tree-header {
+    min-height: 64px;
+  }
 }
 .section-tree-title {
   margin-bottom: 0px;
