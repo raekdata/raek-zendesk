@@ -1,4 +1,4 @@
-_archive
-build
 .DS_Store
-notes.txt
+.vscode
+_backup
+_build
