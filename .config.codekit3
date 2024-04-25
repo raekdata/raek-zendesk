@@ -7,7 +7,7 @@
       "uuidString" : "8AEE235C-46C5-452B-84D6-54D86882CB85"
     }
   ],
-  "creatorBuild" : "34510",
+  "creatorBuild" : "34564",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -2374,9 +2374,6 @@
       "no-new-native-nonconstructor" : {
         "active" : 0
       },
-      "no-new-object" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -2388,6 +2385,9 @@
       },
       "no-obj-calls" : {
         "active" : 1
+      },
+      "no-object-constructor" : {
+        "active" : 0
       },
       "no-octal" : {
         "active" : 1
@@ -2442,9 +2442,6 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
-      },
-      "no-return-await" : {
-        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
